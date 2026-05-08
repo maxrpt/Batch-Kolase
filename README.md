@@ -1,7 +1,9 @@
+<img width="1354" height="907" alt="image" src="https://github.com/user-attachments/assets/64f4c37d-f41d-4d7f-9d0a-17059edbf573" />
 
-# 📸 Batch Auto-Collage Pro
 
-**Batch Auto-Collage Pro** adalah aplikasi web modern yang memungkinkan pengguna membuat puluhan kolase foto secara otomatis dalam hitungan detik. Aplikasi ini menggabungkan kekuatan **AI (Google Gemini)** untuk analisis tema dengan **Canvas API** yang dioptimalkan untuk menjaga kualitas dan akurasi warna gambar asli.
+# 📸 Batch Auto-Collage
+
+**Batch Auto-Collage** adalah aplikasi web modern yang memungkinkan pengguna membuat puluhan kolase foto secara otomatis dalam hitungan detik. Aplikasi ini menggabungkan kekuatan **AI (Google Gemini)** untuk analisis tema dengan **Canvas API** yang dioptimalkan untuk menjaga kualitas dan akurasi warna gambar asli.
 
 Berbeda dengan aplikasi kolase lainnya, aplikasi ini mengutamakan **privasi**; semua pemrosesan gambar dilakukan secara lokal di browser Anda.
 
